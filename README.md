@@ -1,4 +1,7 @@
 # taller14
+# Integrantes:
+* Jean Villavicecncio
+* Sebastían Mendieta
 
 ## Problema 01
 * Generar un programa que permita ingresar por teclado información que corresponde a
